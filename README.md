@@ -1,4 +1,4 @@
-## Olá! Eu sou a Érica Santos 👋
+## Olá! Eu sou a Érica Santos.
 
 - 🚀 Desenvolvedora Full-Stack em formação
 - 📌 Estudando JavaScript | TypeScript | React | Node.js
