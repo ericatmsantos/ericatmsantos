@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Érica Santos.
 
-- 🚀 Desenvolvedora Full-Stack em formação
-- 📌 Estudando JavaScript | TypeScript | React | Node.js
+- 🚀 Desenvolvedora Front end e Webdesign em formação
+- 📌 Estudando HTML | CSS | JavaScript | UI/UX
 - 💡 Interesse em Python e Inteligência Artificial
 - 📚 Apaixonada por tecnologia, inovação e aprendizado contínuo
 
