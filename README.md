@@ -2,7 +2,7 @@
 
 - 🚀 Desenvolvedora Front end e Webdesign em formação
 - 📌 Estudando HTML | CSS | JavaScript | UI/UX
-- 💡 Interesse em Python e Inteligência Artificial
+- 💡 Interesse em Inteligência Artificial, Python e serviços AWS
 - 📚 Apaixonada por tecnologia, inovação e aprendizado contínuo
 
 ##
